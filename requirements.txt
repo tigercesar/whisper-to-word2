@@ -1,3 +1,4 @@
+Plaintext
 streamlit
 openai-whisper
 python-docx
